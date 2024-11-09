@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  voltage: 1.5
+  power: 1.5
+  current: 1.5
+  energy: 1.5
+  frequency: 1.5
+  PF: 1.5
+  electricPrice: 1.5
+  device: one
+
+two:
+  voltage: 1.5
+  power: 1.5
+  current: 1.5
+  energy: 1.5
+  frequency: 1.5
+  PF: 1.5
+  electricPrice: 1.5
+  device: two
